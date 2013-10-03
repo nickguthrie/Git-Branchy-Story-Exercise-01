@@ -1,1 +1,1 @@
-Tommy is dead.
+Tommy is zombie.
